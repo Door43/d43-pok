@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pok:home|Door43 (pok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pok|d43-pok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pok/archive/master.zip|d43-pok.zip]]
+
+**Recent Changes**
+{{changes>ns = pok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pok|Ethnologue data]]
+
